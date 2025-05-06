@@ -22,7 +22,7 @@
 - 💡 I love teaching kids to code
 - 💪 Focused on learning and growing every day
 - 🌍 Dreaming of studying MIS in Canada
-- 🪄 My personal project: [ShineSteps](https://shine-steps.netlify.app)
+
 
 ---
 
