@@ -17,11 +17,11 @@
 
 ### About me
 
-- 👩‍💻 I'm a student and passionate about web development
-- 🎓 Studying Computer Programming
-- 💡 I love teaching kids to code
-- 💪 Focused on learning and growing every day
-- 🌍 Dreaming of studying MIS in Canada
+👩‍💻 I'm a student and passionate about web development
+🎓 Studying Management Information Systems at Akdeniz University
+💡 I love teaching kids to code and inspiring curiosity in technology
+💪 Focused on learning, growing, and building meaningful digital experiences
+🌍 Dreaming of pursuing a master’s degree in Ireland
 
 
 ---
